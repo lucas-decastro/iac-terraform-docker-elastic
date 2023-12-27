@@ -2,7 +2,7 @@
 
 ![](images/terraform-docker-elastic.png)
 
-### Resumo do Projeto
+## 📋 Resumo do Projeto
 
 Este é um projeto de Infraestrutura como Código (IaC) que utiliza Docker, Terraform para provisionamento e AWS como provedor de infraestrutura. Ele se destaca pela utilização do ECS (Elastic Container Service) da AWS, combinado com o Fargate para gerenciamento eficiente e sem servidor dos containers Docker, oferecendo uma solução robusta e escalável para aplicações.
 
