@@ -10,3 +10,5 @@ module "vpc" {
 
   enable_nat_gateway = true
 }
+
+#Documentação oficial VPC: https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest
