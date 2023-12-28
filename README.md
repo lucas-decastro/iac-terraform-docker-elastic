@@ -32,6 +32,6 @@ Antes de iniciar o projeto, é crucial atualizar o nome da imagem Docker no arqu
 O projeto foi desenvolvido no Visual Studio Code (VSC). Para começar:
 
 1. **Instalação**: Instale o VSC e, na aba de extensões (Ctrl+Shift+X), procure e instale a extensão "HashiCorp Terraform" para suporte de IntelliSense.
-2. **Preparação do Projeto**: Se você baixou o zip, extraia-o antes de abrir. Abra a pasta do projeto no VSC.
-3. **Inicialização do Terraform**: Navegue até `env/Prod` e execute `terraform init` para iniciar o Terraform.
-4. **Execução do Projeto**: Para criar a infraestrutura, execute `terraform apply` na pasta `env/Prod`.
+2. **Preparação do Projeto**: Realize o git clone no VSC.
+3. **Inicialização do Terraform**: Navegue até `env/prd` e execute `terraform init` para iniciar o Terraform.
+4. **Execução do Projeto**: Para criar a infraestrutura, execute `terraform apply` na pasta `env/prd`.
